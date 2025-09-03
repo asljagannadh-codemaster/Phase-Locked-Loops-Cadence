@@ -10,4 +10,6 @@ For a quick view the final loops implementation circuit diagram is given below:
 The corresponding output is given below:
 ![WhatsApp Image 2025-09-01 at 03 16 57_21591c58](https://github.com/user-attachments/assets/6c5f0174-ff3d-4709-8265-ab4920de49c3)
 
+All the internal block design and their individual simulation outputs are in the above report. Please look into the report for more information. 
+
 
